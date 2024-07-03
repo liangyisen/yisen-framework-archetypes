@@ -1,4 +1,11 @@
+
+
 ## 1. 创建应用
+```bash
+mvn clean install
+```
+
+## 2. 创建应用
 
 执行以下命令：
 
@@ -13,5 +20,3 @@ mvn archetype:generate \
     -DarchetypeGroupId=com.yisen \
     -DarchetypeVersion=1.0
 ```
-
-命令执行成功的话，会看到如下的应用代码结构：
